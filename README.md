@@ -8,6 +8,8 @@
 
 ![Global-Money-note-backs-1024x702](https://github.com/user-attachments/assets/a48a545e-bcb0-4a63-b929-e5125a2f7d0a)
 
+File: [Jupyter Source File](Cost_of_Living_by_Country_Jupyter.ipynb)
+
 ##
 
 ### The Phases of Data Analysis
@@ -30,12 +32,13 @@ Explore and provide answers to key questions from people considering moving or t
 
 ## 1. Ask
 
-Ask Questions!
+Questions!
 
-Three questions will guide the future marketing program:
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+1: What countries have the Most and Least expensive cost of living including rent compared to New York?
+2: How does the United Arab Emirates index’s compare to New York?
+3: On average how much more expensive is it to buy groceries in NY compared to India?
+4: How much cheaper is it to rent and buy groceries in the Bahamas compared to NY?
+5: Create Visualiztions.
 
 :flashlight: **Task: Answer key questions for individuals planning trips/considering relocation to various destinations worldwide. Help them budget effectively and understand the impact of living on their average salary in their new environment.**
 
@@ -63,7 +66,7 @@ This data is based solely on the cost of living relative to New York City (NYC) 
 
 ## 3. Process
 
-Clean data is the best data. You will need to clean up data to get rid of any errors, inaccuracies, or inconsistencies.
+Clean and Organize your data to get rid of any errors, inaccuracies, or inconsistencies.
 
 :hammer_and_wrench: Tool: Python Jupyter Notebook (Packages: Pandas)
 
@@ -71,26 +74,17 @@ An exploratory analysis was conducted to familiarize ourselves with the dataset 
 
 ## 4. Analyze
 
-You will want to think analytically about your data. At this stage you might sort and
-format your data to make it easier to perform calculations, combine data from multiple sources and create tables with your results!
-
-🛠️ Tool: Python Jupyter Notebook (Packages: Pandas)
-
 :microscope: Analyze the Data to Discover Insights
 
-File: [Data Analysis](Cyclistic_Data_Analysis_Script.R)
+🛠️ Tool: Python Jupyter Notebook (Packages: Pandas)
 
 ## 5. Share
 
 🛠️ Tool: Python Jupyter Notebook (Packages: Pandas, Matplotlib, Seaborn) 
 
-File: [Jupyter Source File]()
-
 ![](https://github.com/user-attachments/assets/ef79449a-79b9-457b-827b-6b0455ef5a14)
 
 ## 6. Act
-
-### Actionable Insights:
 
 :bulb: **Conclusions**
 
