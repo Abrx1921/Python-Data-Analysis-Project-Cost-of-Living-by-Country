@@ -48,8 +48,6 @@ Data needed in order to answer your questions!
 
 [Data Source](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp), [License](https://www.numbeo.com/premium/commercial-license) and [Credits](https://www.numbeo.com/cost-of-living/)
 
-The data set used ranges from January 1, 2019 (Q1) to April 2, 2020 (Q1). It contains a combination of 5 CSVs, totaling 15 columns and 4.2 million rows.
-
 The dataset is a snapshot of the current indexes from mid-year 2024. It contains 1 csv file with 8 columns and 121 rows. 
 
 :pencil: Data Ensures ROCCC: 
