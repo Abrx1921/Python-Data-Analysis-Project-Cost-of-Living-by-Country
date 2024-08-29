@@ -92,8 +92,6 @@ An exploratory analysis was conducted to familiarize ourselves with the dataset 
 
 :bulb: **Conclusions**
 
-##
-
 - Our analysis successfully addressed our clients' questions, providing valuable insights into how their lifestyle might change if they relocate to a new area. We also offered guidance on budgeting for travel to various global destinations.
 
 - We identified the countries with the highest cost of living indexes, highlighting the most expensive places to live.
