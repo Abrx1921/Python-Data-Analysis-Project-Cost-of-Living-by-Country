@@ -8,7 +8,7 @@
 
 ![Global-Money-note-backs-1024x702](https://github.com/user-attachments/assets/a48a545e-bcb0-4a63-b929-e5125a2f7d0a)
 
-File: [Jupyter Source File](Cost_of_Living_by_Country_Jupyter.ipynb)
+:floppy_disk: File: [Python Jupyter Notebook](Cost_of_Living_by_Country_Jupyter.ipynb)
 
 ##
 
@@ -72,17 +72,23 @@ Clean and Organize your data to get rid of any errors, inaccuracies, or inconsis
 
 An exploratory analysis was conducted to familiarize ourselves with the dataset and assess whether any cleaning was necessary. After thoroughly examining the data using various cleaning and inspection techniques, we concluded that the data was clean and required no further modifications.
 
+:floppy_disk: File: [](Cost_of_Living_by_Country_Jupyter.ipynb)
+
 ## 4. Analyze
 
 :microscope: Analyze the Data to Discover Insights
 
 🛠️ Tool: Python Jupyter Notebook (Packages: Pandas)
 
+:floppy_disk: File: [](Cost_of_Living_by_Country_Jupyter.ipynb)
+
 ## 5. Share
 
 🛠️ Tool: Python Jupyter Notebook (Packages: Pandas, Matplotlib, Seaborn) 
 
 ![](https://github.com/user-attachments/assets/ef79449a-79b9-457b-827b-6b0455ef5a14)
+
+:floppy_disk: File: [](Cost_of_Living_by_Country_Jupyter.ipynb)
 
 ## 6. Act
 
