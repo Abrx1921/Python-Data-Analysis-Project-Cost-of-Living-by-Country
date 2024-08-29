@@ -6,6 +6,8 @@
 
 **Date: August 29, 2024**
 
+![Global-Money-note-backs-1024x702](https://github.com/user-attachments/assets/a48a545e-bcb0-4a63-b929-e5125a2f7d0a)
+
 ##
 
 ### The Phases of Data Analysis
@@ -82,9 +84,7 @@ File: [Data Analysis](Cyclistic_Data_Analysis_Script.R)
 
 🛠️ Tool: Python Jupyter Notebook (Packages: Pandas, Matplotlib, Seaborn) 
 
-File: [R Markdown](Cyclistic_BikeData_RMD.RMD)
-
-:bar_chart: [Data Analysis Report](https://rpubs.com/Abrx1921/1191923) 
+File: [Jupyter Source File]()
 
 ![](https://github.com/user-attachments/assets/ef79449a-79b9-457b-827b-6b0455ef5a14)
 
